@@ -64,5 +64,4 @@ Each of those topics builds directly on the hub-and-spoke model described in the
 
 📌 **Next Step**  
 Read the full networking standards here:  
-➡️ **[VPC Networking: Hub-and-Spoke Model](./networking-hub-and-spoke.md)**
-
+➡️ **[VPC Networking: Hub-and-Spoke Model](/docs/VPC-README.md)**
