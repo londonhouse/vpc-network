@@ -4,7 +4,7 @@
 This document summarizes the **networking philosophy and standards** used for designing scalable, multi-account AWS environments.
 
 The full networking standards document can be found here:  
-➡️ **[VPC Networking: Hub-and-Spoke Model](./networking-hub-and-spoke.md)**
+➡️ **[VPC Networking: Hub-and-Spoke Model](/docs/VPC-README.md)**
 
 ---
 

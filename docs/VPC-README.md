@@ -65,7 +65,7 @@ The hub-and-spoke model eliminates these problems by creating **predictable netw
 
 Instead of configuring networking independently in every account, teams deploy **one standardized spoke** that connects to a shared hub. From that point forward, network behavior is known, repeatable, and centrally observable.
 
-When you acquire a new team or spin up a new business unit, onboarding becomes **infrastructure as code—not a redesign exercise**.
+When you acquire a new team or spin up a new business unit, onboarding becomes **infrastructure as code, not a redesign exercise**.
 
 ---
 
@@ -127,4 +127,4 @@ It also enables the effective use of Infrastructure as Code to:
 
 All of this makes environments easier to audit, troubleshoot, and evolve over time.
 
-This networking approach forms the **foundation** for everything that follows—auditing, logging, identity, and shared services—which are covered in subsequent sections of these VPC standards and practices.
+This networking approach forms the **foundation** for everything that follows: auditing, logging, identity, and shared services, which are covered in subsequent sections of these VPC standards and practices.
