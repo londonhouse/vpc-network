@@ -5,9 +5,9 @@ This section of VPC standards and practices focuses on the **core network**. Whe
 
 **How do you design a network that scales across many AWS accounts without becoming difficult to manage, hard to observe, or nearly impossible to analyze?**
 
-In my experience, the **hub-and-spoke model** is one of the most efficient ways to design enterprise VPC networking. It cleanly separates responsibilities, reduces repetition, and gives platform and networking teams the leverage they need as environments grow—regardless of speed.
+In my experience, the **hub-and-spoke model** is one of the most efficient ways to design enterprise VPC networking. It cleanly separates responsibilities, reduces repetition, and gives platform and networking teams the leverage they need as environments grow, regardless of speed.
 
-This section focuses on **why that model works so well in multi-account AWS**, and how the underlying components support that goal.
+This section focuses on why that model works so well in multi-account AWS, and how the underlying components support that goal.
 
 ---
 
